@@ -34,6 +34,10 @@
 			"node": "./src/server.ts"
 		}
 	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/eeddow/rollup-ts-lib-boiler-plate.git"
+	},
 	"description": "Boiler plate for server/client library with rollup, typescript and jest",
 	"type": "module",
 	"author": "François Marie <eeddow@gmail.com>",
